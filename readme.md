@@ -2,6 +2,6 @@
 Ad - ESP-12F
 
 
-راهنمای فارسی:
+راهنمای فارسی (Persian Help):
 ----------------
 http://www.mElectronics.IR/
