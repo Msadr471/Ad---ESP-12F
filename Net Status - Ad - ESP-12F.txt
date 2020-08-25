@@ -1,0 +1,66 @@
+Net Status Report
+Filename     : E:\E\Ad - ESP-12F\Ad - ESP-12F\Ad - ESP-12F.PcbDoc
+Date         : 2020-02-11
+Time         : 12:50:03
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    3V3, Signal Layers Only, 110.0091mm
+    5IO0, Signal Layers Only, 16.688mm
+    5IO1, Signal Layers Only, 22.4722mm
+    5IO12, Signal Layers Only, 20.9465mm
+    5IO13, Signal Layers Only, 46.9194mm
+    5IO14, Signal Layers Only, 22.7826mm
+    5IO15, Signal Layers Only, 39.7455mm
+    5IO16, Signal Layers Only, 25.2948mm
+    5IO2, Signal Layers Only, 17.9432mm
+    5IO3, Signal Layers Only, 20.6144mm
+    5IO4, Signal Layers Only, 18.7364mm
+    5IO5, Signal Layers Only, 22.8119mm
+    5V, Signal Layers Only, 236.9328mm
+    ADC, Signal Layers Only, 59.246mm
+    DTR, Signal Layers Only, 16.1592mm
+    EN, Signal Layers Only, 5.288mm
+    GND, Signal Layers Only, 402.4556mm
+    IO0, Signal Layers Only, 102.0598mm
+    IO1, Signal Layers Only, 125.5464mm
+    IO12, Signal Layers Only, 138.673mm
+    IO13, Signal Layers Only, 169.6456mm
+    IO14, Signal Layers Only, 149.1392mm
+    IO15, Signal Layers Only, 145.7157mm
+    IO16, Signal Layers Only, 56.1548mm
+    IO2, Signal Layers Only, 148.8492mm
+    IO3, Signal Layers Only, 122.0379mm
+    IO4, Signal Layers Only, 99.8915mm
+    IO5, Signal Layers Only, 66.747mm
+    NetC9_2, Signal Layers Only, 14.6435mm
+    NetIC1_14, Signal Layers Only, 27.923mm
+    NetIC1_15, Signal Layers Only, 19.133mm
+    NetIC1_16, Signal Layers Only, 20.1392mm
+    NetIC1_22, Signal Layers Only, 37.7867mm
+    NetIC1_23, Signal Layers Only, 26.1338mm
+    NetJP1_2, Signal Layers Only, 128.8754mm
+    NetLED1_1, Signal Layers Only, 2.79mm
+    NetLED2_1, Signal Layers Only, 2.89mm
+    NetLED3_1, Signal Layers Only, 2.86mm
+    NetQ10_1, Signal Layers Only, 4.35mm
+    NetQ11_1, Signal Layers Only, 4.35mm
+    NetQ12_1, Signal Layers Only, 3.2mm
+    NetQ13_1, Signal Layers Only, 6.8643mm
+    NetQ14_1, Signal Layers Only, 4.35mm
+    NetQ1_2, Signal Layers Only, 23.2831mm
+    NetQ2_1, Signal Layers Only, 3.74mm
+    NetQ3_1, Signal Layers Only, 3.97mm
+    NetQ4_1, Signal Layers Only, 21.8429mm
+    NetQ5_1, Signal Layers Only, 4.9465mm
+    NetQ6_1, Signal Layers Only, 19.1734mm
+    NetQ7_1, Signal Layers Only, 4.389mm
+    NetQ8_1, Signal Layers Only, 7.0487mm
+    NetQ9_1, Signal Layers Only, 10.1451mm
+    Netp1_1, Signal Layers Only, 34.0822mm
+    RESET, Signal Layers Only, 17.7903mm
+    RST, Signal Layers Only, 77.9535mm
+    RTS, Signal Layers Only, 10.2464mm
+    USB, Signal Layers Only, 36.4017mm
+    Vin, Signal Layers Only, 148.8373mm
+count : 58

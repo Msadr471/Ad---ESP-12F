@@ -1,0 +1,115 @@
+Board Information Report
+Filename     : E:\E\Ad - ESP-12F\Ad - ESP-12F\Ad - ESP-12F.PcbDoc
+Date         : 2020-02-11
+Time         : 12:51:07
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 102mmx50mm
+    Components on board, 76
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 199
+    Connections routed, 199
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 139, 0, 489, 0, 0, 0, 0
+    Bottom Layer, 0, 55, 0, 353, 0, 0, 0, 0
+    Mechanical 1, 0, 0, 0, 33, 1, 0, 0, 34
+    Mechanical 2, 0, 0, 0, 3, 0, 0, 0, 0
+    Mechanical 13, 2, 0, 0, 168, 0, 0, 0, 42
+    Mechanical 14, 0, 0, 0, 12, 0, 0, 0, 0
+    Mechanical 15, 0, 0, 0, 270, 0, 0, 0, 0
+    Multi-Layer, 0, 83, 56, 0, 0, 0, 2, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 8, 0, 0, 230, 112, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 11, 0, 0, 66, 44, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 6, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 17
+
+Drill Pairs, Vias
+count : 0
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 1.283, 827.655, 16%
+    Bottom Layer, 1.164, 751.213, 15%
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mm, 194, 0
+    0.7mm, 2, 0
+    1mm, 78, 0
+count : 3
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+    39.37mil / 118.11mil, 3
+count : 1
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    0mm, 2
+    0.7mm, 78
+    1mm, 2
+    3mm, 1
+count : 4
+
+Mid Layer Annular Ring Size, Count
+    0mm, 2
+    0.7mm, 78
+    1mm, 2
+    3mm, 1
+count : 4
+
+Bottom Layer Annular Ring Size, Count
+    0mm, 2
+    0.7mm, 78
+    1mm, 2
+    3mm, 1
+count : 4
+
+Pad Solder Mask, Count
+    0.1mm, 277
+count : 1
+
+Pad Paste Mask, Count
+    0mm, 277
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    0.5mm, 277
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.3mm, 277
+count : 1
+
+Pad Relief Air Gap, Count
+    0.3mm, 277
+count : 1
+
+Pad Relief Entries, Count
+    4, 277
+count : 1
+
+Via Solder Mask, Count
+count : 0
